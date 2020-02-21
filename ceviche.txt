@@ -1,13 +1,14 @@
 Ceviche "La Cafeta"
 
 Ingregientes:
-- Pescado 300g
-- Limón 20unidades
-- ají  1
-- camote 2
-- yuca  1
-- tortita de choclo. 2 huevos
--cebolla  2
+
+- Pescado - 2
+- Limón - 2
+- ají - 3
+- camote - 4
+- yuca - 4
+- tortita de choclo - 6
+-cebolla - 1
 
 Preparación:
 - Exprimir los limones.
