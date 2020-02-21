@@ -7,6 +7,7 @@ Ingregientes:
 - camote
 - yuca
 - tortita de choclo.
+-cebolla
 
 Preparación:
 - Exprimir los limones.
