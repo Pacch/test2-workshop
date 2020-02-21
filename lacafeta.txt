@@ -4,6 +4,7 @@ Ingregientes:
 - Pescado
 - Limón
 - ají
+-cebolla
 
 Preparación:
 - Exprimir los limones.
