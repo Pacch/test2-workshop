@@ -21,4 +21,4 @@ Preparación:
 
 
 
-estamos creando un nuevo commit :D
+estamos creando un nuevo commit
